@@ -1,30 +1,34 @@
 ## 🍂 Bonjour, je suis Alexandre 🍂
 
 ### À propos de moi
+Je suis un **développeur full-stack passionné**, avec une expertise allant du développement de serveurs de jeux aux applications web modernes. Mon parcours m'a permis de maîtriser un large éventail de technologies et de méthodologies.
 
-Je suis un **développeur passionné**, spécialisé dans les serveurs Minecraft avec une expertise solide en :
+### Compétences techniques
 
-- **Java** & **Kotlin** : Création et personnalisation de plugins pour Minecraft.
-- **PHP** : Développement de fonctionnalités serveur côté backend.
-- **JavaScript (JS)** : Pour enrichir les expériences web et serveurs.
-- **HTML/CSS** : Conception d'interfaces utilisateur attrayantes et responsives.
-- **Redis** : Gestion de systèmes de cache performants pour une optimisation des performances.
+**Développement Web & Frontend**
+- **Frameworks modernes** : React, Next.js, Laravel
+- **Langages** : TypeScript, JavaScript, PHP, HTML/CSS
+- **Architecture** : APIs REST, micro-services, systèmes d'authentification
 
-### En Apprentissage
+**Backend & Bases de données**
+- **ORM & SQL** : Prisma ORM, MySQL, PostgreSQL
+- **Optimisation** : Modélisation de données, systèmes de cache (Redis)
+- **Développement logiciel** : Java, Kotlin, C#
 
-En cette saison automnale 🍁, je me plonge dans l'exploration de :
+**DevOps & Infrastructure**
+- **Conteneurisation** : Docker, Kubernetes (déploiement, gestion de conteneurs)
+- **CI/CD** : Pipelines d'intégration et de déploiement continu
+- **Systèmes** : Administration de parc informatique, configuration réseau, maintenance
 
-- **React** & **Next.js** : Développement d'interfaces web modernes et performantes.
-- **Administration Système** : Optimisation des environnements de déploiement.
-- **C#** : Pour le développement d'applications et de jeux.
-- **Gestion de Base de données** : Amélioration de mes compétences en conception et gestion des données.
+**Outils & Méthodologies**
+- **Gestion de code** : Git, GitHub (workflows, pull requests)
+- **Performance** : Optimisation des architectures, gestion de cache
 
-### Centres d'Intérêt
-
-🍁 **Innovation et Créativité** : Je suis passionné par l'innovation dans le domaine de la programmation, notamment la création de serveurs Minecraft. Mon objectif est d'améliorer constamment l'expérience des joueurs en intégrant des idées nouvelles et des technologies émergentes.
+### Projets & Expertise
+🎮 **Serveurs Minecraft** : Création et personnalisation de plugins, optimisation des performances serveur  
+🌐 **Applications Web** : Développement d'interfaces modernes et d'architectures backend robustes  
+🚀 **Innovation Continue** : Intégration de technologies émergentes pour améliorer l'expérience utilisateur
 
 ### Me Contacter
-
-📫 Vous pouvez me contacter par :
-- **Email** : [amtartame@outlook.be](mailto:amtartame@outlook.be)
-- **Discord** : [Rejoignez-moi sur Discord](https://discord.gg/wKsGJ6HqU)
+📫 **Email** : [eternom@icloud.com](mailto:eternom@icloud.com)  
+💬 **Discord** : [Rejoignez-moi sur Discord](https://discord.gg/wKsGJ6HqU)
